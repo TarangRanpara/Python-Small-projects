@@ -1,6 +1,14 @@
 import os
 import shutil
 
+'''If you're one of us, who just don't regularly arrangle dowloads folder or any general folder, and one moment when you see it, 
+it is just a mess of several GbS and you're too lazy to arrange it.
+this is the ultimate solution, it arrangles all your files by extensions.
+
+just provide the folder path, try to use '//' instead of '/' in a path
+feel free to make it rich.
+'''
+
 def arrange_files():
     
     #file extension
