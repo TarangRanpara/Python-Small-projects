@@ -23,3 +23,9 @@ It contains some code that I wrote while learning python and some automation scr
    ```
    It is a program for solution of systems programming problem called 'left recursion' 
    ```
+   
+## K_MostRepeating
+   ```
+   It was asked in coding interview in facebook.
+   We have ti find k most repeating values and here's the basc skeleton like program for that.
+   ```
